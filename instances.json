@@ -2,7 +2,7 @@
   {
     "ip": "70.37.69.168",
     "hostname": "",
-    "bare_metal: false,
+    "bare_metal": false,
     "nested_virt": true
   }
 ]
